@@ -10,6 +10,8 @@ namespace testconsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Clash Royal ist kein Taktisches spiel");
+            Console.ReadLine();
         }
     }
 }
